@@ -1,4 +1,4 @@
-# 🖥️ Microsoft Homepage Clone Using HTML, & CSS
+# 🖥️ Microsoft Homepage Clone Using HTML & CSS
 
 This project is a **Microsoft homepage clone** built using **HTML & CSS**. It aims to replicate the structure and visual design of the Microsoft website homepage, focusing on front-end development skills. It demonstrates the use of responsive design, layout structuring, and interactive navigation using JavaScript.
 
